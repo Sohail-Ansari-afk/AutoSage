@@ -46,7 +46,7 @@ AutoSage is an AI-powered vehicle expert application that provides comprehensive
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Sohail-Ansari-afk/AutoSage.git>
    cd autosage-the-vehicle-expert
    ```
 
